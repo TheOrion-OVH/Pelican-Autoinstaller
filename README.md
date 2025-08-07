@@ -9,4 +9,5 @@ Vous pouvez installer soit le panel, soit Wings soit les deux sur la même machi
  
  ```apt install curl -y```
  
-```bash <(curl -s https://raw.githubusercontent.com/TheOrion-OVH/Pelican-Autoinstaller/refs/heads/main/installer.sh)```
+```bash
+bash <(curl -s https://raw.githubusercontent.com/TheOrion-OVH/Pelican-Autoinstaller/refs/heads/main/installer.sh)
